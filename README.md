@@ -57,6 +57,8 @@ Você tem total liberdade para aumentar alguns conhecimentos que considere inter
 ## Recursos Avançados
 1. Importar registros de vendedores via arquivo CSV usando o comando MAGENTO CLI
 2. Disponibilizar no GraphQl a consulta de vendedores por ID
-3. Todo o código deve passar nos testes estáticos do Magento (padrões de codificação do Magento)
-4. Criar testes de unidade para cobrir pelo menos 03 classes (01 Model, 01 Block e 01 Controller)
-5. Criar Grid e Formulário de cadastro do Vendedor via Magento UI Component
+3. Disponibilizar na API REST um endpoint para consultar o vendedor pelo seu ID
+4. Todo o código deve passar nos testes estáticos do Magento (padrões de codificação do Magento)
+5. Criar testes de unidade para cobrir pelo menos 03 classes (01 Model, 01 Block e 01 Controller)
+6. Criar Grid e Formulário de cadastro do Vendedor via Magento UI Component
+
