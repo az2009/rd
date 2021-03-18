@@ -41,7 +41,7 @@ Você tem total liberdade para aumentar alguns conhecimentos que considere inter
 5. Deve ser possível restringir o acesso a usuários Magento Admin para criar, editar, excluir e listar vendedores;
 6. O formulário de registro do vendedor deve ter:
 
-| Field name       | Type        | Required | Additional checks                |
+| Nome do Campo    | Tipo        | Obrigatório | Validações Adicionais         |
 |------------------|-------------|----------|----------------------------------|
 | Enable           | bool        | Yes      |                                  |
 | Company Name     | text        | Yes      | Alfanumérico, Max. 200 Carácteres|
