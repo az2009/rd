@@ -3,7 +3,7 @@
 Teste para avaliar as habilidades dos candidatos a Magento Backend Developer.
 
 # Introdução
-Este teste de avaliação tem como objetivo avaliar seu conhecimento como desenvolvedor Magento Backend. O teste de avaliação avaliará suas habilidades em:
+Este teste de avaliação tem como objetivo avaliar seu conhecimento como desenvolvedor Magento Backend. O teste avaliará suas habilidades em:
 
 - Seu nível de conhecimento da linguagem PHP OOP (PHP versão 7 +)
 - Arquitetura de componentes Magento (Magento Open Source / Commerce 2.3+)
@@ -28,7 +28,7 @@ Este teste de avaliação tem como objetivo avaliar seu conhecimento como desenv
 - Quando terminar envie a URL do repositório para o contato que está direcionando o processo seletivo
 
 # Instruções
-O foco principal do nosso teste de avaliação é avaliar suas habilidades e conhecimentos como desenvolvedor Magento Backend.
+O foco principal do nosso teste é avaliar suas habilidades e conhecimentos como desenvolvedor Magento Backend.
 Você tem total liberdade para aumentar alguns conhecimentos que considere interessantes para aplicar na avaliação.
 
 >Não há problema se você não conseguir executar todos os recursos da avaliação, faça o máximo que puder.
