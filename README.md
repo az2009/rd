@@ -18,6 +18,7 @@ Este teste de avaliação tem como objetivo avaliar seu conhecimento como desenv
 - Estrutura e organização de código e arquivos
 - Soluções adotadas
 - Tecnologias utilizadas
+- Aplicação no código de SOLID - Single Responsibility Principle 
 - Qualidade
 - Padrões PSR
 
@@ -32,7 +33,7 @@ Você tem total liberdade para aumentar alguns conhecimentos que considere inter
 
 >Não há problema se você não conseguir executar todos os recursos da avaliação, faça o máximo que puder.
 
-##Recursos básicos
+## Recursos básicos
 1. Módulo para criar entidade Sellers que irá armazenar os dados dos vendedores cadastrados no Marketplace;
 2. Use interfaces para criar contratos de serviço;
 3. O módulo deve ter recursos para criar, editar, listar e deletar vendedore através da área de administração do Magento;
@@ -59,8 +60,3 @@ Você tem total liberdade para aumentar alguns conhecimentos que considere inter
 3. Todo o código deve passar nos testes estáticos do Magento (padrões de codificação do Magento)
 4. Criar testes de unidade para cobrir pelo menos 03 classes (01 Model, 01 Block e 01 Controller)
 5. Criar Grid e Formulário de cadastro do Vendedor via Magento UI Component
-
-
-
-
-
